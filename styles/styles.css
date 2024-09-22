@@ -59,6 +59,6 @@ header, #top-menu {
 	background-color: var(--top-menu-bg);
 }
 nav a.active {
-	background-color: black;
+	background-color: var(--sub-menu-bg);
 	color: var(--main-bg);
 }
